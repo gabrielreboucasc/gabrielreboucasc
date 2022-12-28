@@ -1,7 +1,7 @@
 <div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielreboucasc&show_icons=true&theme=gruvbox" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreboucasc&layout=compact&langs_count=6&theme=gruvbox" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=gabrielreboucasc&show_icons=true&theme=gruvbox" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielreboucasc&layout=compact&langs_count=6&theme=gruvbox" />
 
 
 </div>
